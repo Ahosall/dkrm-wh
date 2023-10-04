@@ -32,7 +32,7 @@ pip3 install -r requirements.txt
 
 Finishing the installation, start the `app.py` file and have fun!
 
-## Future roles
+## Future features
 
 - Sending embeds
 - Sending files (images, videos, audios)
