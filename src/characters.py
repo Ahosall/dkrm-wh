@@ -4,7 +4,7 @@ import json
 from time import time
 
 def loadChars():
-  f = open('chars.json', 'r')
+  f = open('chars.json', 'r', encoding='utf-8')
   d = json.loads(f.read())
   f.close()
   return d
